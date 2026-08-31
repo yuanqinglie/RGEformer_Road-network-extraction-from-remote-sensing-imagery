@@ -5,6 +5,7 @@
 > ✉️ yuanqinglie@pzhu.edu.cn
 
 **Official PyTorch implementation for RGEFormer**, an end‑to‑end road network graph extraction framework for remote‑sensing images.
+The code is still being continuously optimized. Welcome to provide improvement suggestions.
 
 ## 📌 Framework Overview
 
