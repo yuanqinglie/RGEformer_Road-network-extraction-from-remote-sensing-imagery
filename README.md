@@ -270,7 +270,3 @@ RGEFormer/
 ├─ demo.py
 └─ requirements.txt
 ```
-
-> You can directly copy the entire content above and paste it into your github repository `README.md`. GitHub natively renders markdown, math formulas, code blocks and tables.
->
-> Note: You need to put your framework image `framework.png` under `assets/` folder.
