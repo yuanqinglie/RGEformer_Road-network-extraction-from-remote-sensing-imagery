@@ -271,3 +271,24 @@ RGEFormer/
 ├─ demo.py
 └─ requirements.txt
 ```
+## 📁 Data
+### 1. Massachusetts Roads Dataset (MARD)
+Official download URL: https://www.cs.toronto.edu/~vmnih/data/
+
+Description: A classic public aerial‑imagery road dataset with remote‑sensing imagery of towns, suburbs and rural scenarios. It is a standard benchmark dataset in the field of remote‑sensing road network extraction.
+
+### 2. Deep Global Road Extraction Dataset (DGRD, DeepGlobe Road)
+Official homepage: http://deepglobe.org/challenge.html
+
+Public download link (Kaggle): https://www.kaggle.com/datasets/balraj98/deepglobe-road-extraction-dataset
+
+Description: Official competition dataset for CVPR 2018. It covers roads in complex terrains from multiple countries, with samples of both paved and unpaved roads.
+
+### 3. SpaceNet3 Road Network Detection Dataset (SRND)
+Official homepage: https://spacenetchallenge.github.io/
+
+AWS open‑source mirror (direct download with no account required): s3://spacenet-dataset/spacenet/SN3_roads/
+
+Kaggle download link: https://www.kaggle.com/datasets/ollibolli/spacenet-3
+
+Description: A high‑resolution satellite road‑network dataset for multiple cities worldwide. It features fine‑grained topological road annotations and is suitable for road‑network graph extraction tasks.
